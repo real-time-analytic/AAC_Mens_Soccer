@@ -8,6 +8,12 @@ import math
 from mplsoccer.pitch import Pitch
 from matplotlib.patches import Rectangle
 
+@st.cache
+def load_data(sheet_name):
+    path = 'AAC_Data_copy.xlsx'
+    df = pd.read_excel(path, sheet_name=sheet_name)
+    return df
+
 # Header title
 st.header("**2023 American Athletic Conference: Men's Soccer**")
 
