@@ -21,3 +21,8 @@ Data Sources
 
 The data used in this project was curtiously given by the UNC Charlotte Men's Soccer Niner Stats Team.
 
+---
+Additional Resources
+
+- https://theamerican.org/standings.aspx?path=msoc
+- https://theamerican.org/news/2023/11/12/no-2-charlotte-wins-2023-american-athletic-conference-mens-soccer-championship.aspx
