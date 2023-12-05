@@ -13,7 +13,11 @@ For those interested in running the app locally instead of using the link above.
 
 1. Download all items in AAC_project folder
 2. Open project.py in Visual Studio Code
-3. In terminal, pip install items in requirements.txt file
+3. In terminal, pip install items in requirements.txt 
 4. In terminal, type "Streamlit run project.py"
 
 ---
+Data Sources
+
+The data used in this project was curtiously given by the UNC Charlotte Men's Soccer Niner Stats Team.
+
