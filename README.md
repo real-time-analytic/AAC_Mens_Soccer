@@ -13,8 +13,8 @@ For those interested in running the app locally instead of using the link above.
 
 1. Download all items in AAC_project folder
 2. Open project.py in Visual Studio Code
-3. In terminal, pip install items in requirements.txt 
-4. In terminal, type "Streamlit run project.py"
+3. pip install items in requirements.txt 
+4. Type "Streamlit run project.py" in terminal
 
 ---
 Data Sources
