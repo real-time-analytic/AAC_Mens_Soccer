@@ -7,7 +7,6 @@ This app was created with the goal of providing valuable insights to the UNC Cha
 To view data app, go to https://aacmens-unccsoccer.streamlit.app/ 
 
 ---
-
 Reproducing this project
 
 For those interested in running the app locally instead of using the link above.
