@@ -40,3 +40,6 @@ The data used in this project was curtiously given by the UNC Charlotte Men's So
 
 - https://theamerican.org/standings.aspx?path=msoc
 - https://theamerican.org/news/2023/11/12/no-2-charlotte-wins-2023-american-athletic-conference-mens-soccer-championship.aspx
+- <img width="202" alt="Screenshot 2023-10-26 at 5 12 51 PM" src="https://github.com/real-time-analytic/AAC_Mens_Soccer/assets/149093634/4781f5ac-feba-4118-b5b3-c6783b343fae">
+
+
