@@ -1,10 +1,9 @@
 # Assessing Men's Soccer Team Performance in the 2023 American Athletic Conference
 
 
-This app was created with the intention of providing valuable insights to the UNC Charlotte Men's Head Soccer Coach with performance metrics on other teams within the American Athletic Conference during the 2023 season. The app visually displays the strengths and weaknesses of teams within the American Atheltic Conference by showing zones on a soccer field where a particular team is scoring or being scored on most. To differentiate between zones that score more, a crimson color gradient was implemented to display more goals where a darker color represents more goals. If crimson is not present for one of the five zones, goals were not scored in that particular location. For visual purposes, the five zones can be seen below.
+This app was created with the intention of providing valuable insights to the UNC Charlotte Men's Head Soccer Coach with performance metrics on other teams within the American Athletic Conference during the 2023 season. The app visually displays the strengths and weaknesses of teams within the American Atheltic Conference by showing five zones around a goal where a particular team is scoring or being scored on most. To differentiate between zones that have more goals, a crimson color gradient was implemented to display more goals where a darker color represents more goals. If crimson is not present for one of the five zones, goals were not scored in that particular location. For visual purposes, the five zones can be seen below.
 
 
-# Zones
 <img width="317" alt="Screenshot 2023-10-26 at 5 12 51 PM" src="https://github.com/real-time-analytic/AAC_Mens_Soccer/assets/149093634/1477f113-bf19-45da-907b-0056a2207fed">
 
 
