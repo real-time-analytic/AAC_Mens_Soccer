@@ -5,6 +5,7 @@ This app was created with the intention of providing valuable insights to the UN
 
 ---
 **Streamlit app guide**
+
 To start, choose a team.
 
 The streamlit app has three tabs; offensive analysis, defensive analysis, match analysis
