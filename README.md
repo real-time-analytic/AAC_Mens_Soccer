@@ -12,7 +12,9 @@ To start, choose a team.
 The streamlit app has three tabs; offensive analysis, defensive analysis, match analysis
 
 Offensive analysis: displays the location where chosen team has scored all goals during 2023 season
+
 Defensive analysis: displays the location of all goals where chosen team has been scored on during 2023 season 
+
 Match analysis: choose an opponent and the heatmap displays individual matches where goals were scored for and against each team
 
 Streamlit app link: https://aacmens-unccsoccer.streamlit.app/ 
