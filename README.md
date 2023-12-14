@@ -1,10 +1,19 @@
 # Assessing Men's Soccer Team Performance in the 2023 American Athletic Conference
 ---
-**Author: Triston Barbour**
 
-This app was created with the intention of providing valuable insights to the UNC Charlotte Men's Head Soccer Coach with performance metrics on other teams within the American Athletic Conference during the 2023 season.
+This app was created with the intention of providing valuable insights to the UNC Charlotte Men's Head Soccer Coach with performance metrics on other teams within the American Athletic Conference during the 2023 season. The app visually displays the strengths and weaknesses of teams within the American Atheltic Conference by showing where a particular team is scoring or being scored on most on the soccer field. Since UNC Charlotte analytics team utilizes zones to display where shots were taken instead of raw data x,y coordinates, this app also utilizes five zones to display where goals were scored from.
 
-To view data app, go to https://aacmens-unccsoccer.streamlit.app/ 
+---
+# Streamlit app guide
+To start, choose a team.
+
+The streamlit app has three tabs; offensive analysis, defensive analysis, match analysis
+
+Offensive analysis: displays the location where chosen team has scored all goals during 2023 season
+Defensive analysis: displays the location of all goals where chosen team has been scored on during 2023 season 
+Match analysis: choose an opponent and the heatmap displays individual matches where goals were scored for and against each team
+
+Streamlit app link: https://aacmens-unccsoccer.streamlit.app/ 
 
 ---
 **Reproducing this project**
