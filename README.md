@@ -39,7 +39,7 @@ The data used in this project was curtiously given by the UNC Charlotte Men's So
 
 # Future work
 
-As more team data becomes available and with the framework of this app already set up, I plan to update this app to display current season information.
+As more team data becomes available and with the framework of this app already set up, I plan to update this app to display information for future seasons.
 
 # Additional resources
 
