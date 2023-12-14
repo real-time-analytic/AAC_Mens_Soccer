@@ -33,13 +33,13 @@ For those interested in running the app locally instead of using the link above.
 4. Type "Streamlit run project.py" in terminal
 
 
-# Data Sources
+# Data sources
 
 
 The data used in this project was curtiously given by the UNC Charlotte Men's Soccer Niner Stats Team.
 
 
-# Additional Resources
+# Additional resources
 
 
 - https://theamerican.org/standings.aspx?path=msoc
