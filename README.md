@@ -37,6 +37,10 @@ For those interested in running the app locally instead of using the link above.
 The data used in this project was curtiously given by the UNC Charlotte Men's Soccer Niner Stats Team.
 
 
+# Future work
+
+As more team data becomes available and with the framework of this app already set up, I plan to update this app to display current season information.
+
 # Additional resources
 
 
